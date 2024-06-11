@@ -26,7 +26,7 @@ The following functionalities are provided for the vets’ interface:
 - Edit the diagnosis and prognosis for the completed appointments
 - Based on the scheduled working day (working rota), vets can apply for leave, then staffs can accept or deny the application.
 
-The following functionalities should be provided for the receptionists’ interface:
+The following functionalities are provided for the receptionists’ interface:
 - To register and edit individual profile.
 - Make/edit/cancel appointments. (outside the system, the customers either walk in or call them for appointments. So the customers need profiles, and the profiles are added by receptionists. But the customers can’t use the system.)
 - Create customer and pet profiles. (customer profiles must be logical, got name, email address, contact number, gender, and so on.)
